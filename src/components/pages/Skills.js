@@ -1,6 +1,14 @@
 import React from 'react';
 import './Skills.css';
 import SkillItem from './SkillItem';
+import image1 from '../../images/lan1.jpg';
+import image2 from '../../images/lan3.jpg';
+import image3 from '../../images/frame.jpg';
+import image4 from '../../images/dataBase.jpg';
+import image5 from '../../images/react-native.jpg';
+import image6 from '../../images/mern2.jpg';
+import image7 from '../../images/drone1.jpg';
+import image8 from '../../images/fitness.jpg';
 function Skills() {
   return (
     <div className="cards">
@@ -9,7 +17,7 @@ function Skills() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <SkillItem
-              src="images/lan1.jpg"
+              src={image1}
               text={
                 <>
                   <h2>Англи хэл</h2>
@@ -20,7 +28,7 @@ function Skills() {
               label="Human comminication language"
             />
             <SkillItem
-              src="images/lan3.jpg"
+              src={image2}
               text={
                 <>
                   <h2>Программын хэл</h2>
@@ -32,7 +40,7 @@ function Skills() {
               label="Programming languages"
             />
             <SkillItem
-              src="images/frame.jpg"
+              src={image3}
               text={
                 <>
                   <h2>Фреймворк</h2>
@@ -48,7 +56,7 @@ function Skills() {
           </ul>
           <ul className="cards__items">
             <SkillItem
-              src="images/dataBase.jpg"
+              src={image4}
               text={
                 <>
                   <h2>Датабааз</h2>
@@ -61,7 +69,7 @@ function Skills() {
               label="Web dev database"
             />
             <SkillItem
-              src="images/react-native.jpg"
+              src={image5}
               text={
                 <>
                   <h2>Аппликейшн хөгжүүлэлт</h2>
@@ -72,7 +80,7 @@ function Skills() {
               label="Web dev database"
             />
             <SkillItem
-              src="images/mern2.jpg"
+              src={image6}
               text={
                 <>
                   <h2>Ажиллах дуртай технологи</h2>
@@ -85,7 +93,7 @@ function Skills() {
           </ul>
           <ul className="cards__items">
             <SkillItem
-              src="images/drone1.jpg"
+              src={image7}
               text={
                 <>
                   <h2>Дрон худалдааны веб хуудас</h2>
@@ -101,7 +109,7 @@ function Skills() {
               label="Drone onlne shop"
             />
             <SkillItem
-              src="images/fitness.jpg"
+              src={image8}
               text={
                 <>
                   <h2>OneFit fitness application</h2>

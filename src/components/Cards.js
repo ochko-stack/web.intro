@@ -1,6 +1,9 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CartItem';
+import img1 from '../images/skill.jpg';
+import img2 from '../images/ad.jpg';
+import img3 from '../images/uni.jpg';
 
 function Cards() {
   return (
@@ -10,19 +13,19 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/skill.jpg"
+              src={img1}
               text="Технологийн ур чадвар болон бусад..."
               label="Ур чадварууд"
               path="/skills"
             />
             <CardItem
-              src="images/ad.jpg"
+              src={img2}
               text="Давуу тал болон сул тал гэх мэт хувь хүн талаас мэдхийг хүсвэл..."
               label="Давуу тал болон сул тал"
               path="/AD"
             />
             <CardItem
-              src="images/uni.jpg"
+              src={img3}
               text="Их сургууль болон мэргэжил, курс ..."
               label="Их сургууль"
               path="/Uni"
