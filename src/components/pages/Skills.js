@@ -77,7 +77,7 @@ function Skills() {
                   <p style={{ color: 'green' }}>ReactNative,(Firebase)</p>
                 </>
               }
-              label="Web dev database"
+              label="Application dev"
             />
             <SkillItem
               src={image6}
