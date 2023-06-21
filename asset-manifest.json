@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web.intro/static/css/main.a165cb14.css",
+    "main.css": "/web.intro/static/css/main.e4bd73d6.css",
     "main.js": "/web.intro/static/js/main.28339174.js",
     "static/media/shutis.mp4": "/web.intro/static/media/shutis.56fc9363a5c8a48849dd.mp4",
     "static/media/video-1.mp4": "/web.intro/static/media/video-1.59e75226d30ad48f9ede.mp4",
@@ -16,11 +16,11 @@
     "static/media/react-native.jpg": "/web.intro/static/media/react-native.982c546854c387d6c686.jpg",
     "static/media/skill.jpg": "/web.intro/static/media/skill.0be633539c503a2b32b3.jpg",
     "index.html": "/web.intro/index.html",
-    "main.a165cb14.css.map": "/web.intro/static/css/main.a165cb14.css.map",
+    "main.e4bd73d6.css.map": "/web.intro/static/css/main.e4bd73d6.css.map",
     "main.28339174.js.map": "/web.intro/static/js/main.28339174.js.map"
   },
   "entrypoints": [
-    "static/css/main.a165cb14.css",
+    "static/css/main.e4bd73d6.css",
     "static/js/main.28339174.js"
   ]
 }
