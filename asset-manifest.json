@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/intro_web/static/css/main.a165cb14.css",
-    "main.js": "/intro_web/static/js/main.00b8c0a6.js",
-    "static/media/shutis.mp4": "/intro_web/static/media/shutis.56fc9363a5c8a48849dd.mp4",
-    "static/media/video-1.mp4": "/intro_web/static/media/video-1.59e75226d30ad48f9ede.mp4",
-    "static/media/drone1.jpg": "/intro_web/static/media/drone1.fe77ea53561f5d50064f.jpg",
-    "static/media/lan1.jpg": "/intro_web/static/media/lan1.0ec2c47d4858468ffa8a.jpg",
-    "static/media/lan3.jpg": "/intro_web/static/media/lan3.3c77a5e56f5d2000a0ce.jpg",
-    "static/media/mern2.jpg": "/intro_web/static/media/mern2.8cdd9b8dfc23e404ae75.jpg",
-    "static/media/ad.jpg": "/intro_web/static/media/ad.a4eb5a7aaa811ddfaa8e.jpg",
-    "static/media/frame.jpg": "/intro_web/static/media/frame.4327b0f7a26d55c49b70.jpg",
-    "static/media/dataBase.jpg": "/intro_web/static/media/dataBase.a6f062b9f8e6a05508db.jpg",
-    "static/media/fitness.jpg": "/intro_web/static/media/fitness.23dcbdec227f4bff7647.jpg",
-    "static/media/uni.jpg": "/intro_web/static/media/uni.6980dbab198eefafbeb0.jpg",
-    "static/media/react-native.jpg": "/intro_web/static/media/react-native.982c546854c387d6c686.jpg",
-    "static/media/skill.jpg": "/intro_web/static/media/skill.0be633539c503a2b32b3.jpg",
-    "index.html": "/intro_web/index.html",
-    "main.a165cb14.css.map": "/intro_web/static/css/main.a165cb14.css.map",
-    "main.00b8c0a6.js.map": "/intro_web/static/js/main.00b8c0a6.js.map"
+    "main.css": "/web.intro/static/css/main.a165cb14.css",
+    "main.js": "/web.intro/static/js/main.28339174.js",
+    "static/media/shutis.mp4": "/web.intro/static/media/shutis.56fc9363a5c8a48849dd.mp4",
+    "static/media/video-1.mp4": "/web.intro/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/drone1.jpg": "/web.intro/static/media/drone1.fe77ea53561f5d50064f.jpg",
+    "static/media/lan1.jpg": "/web.intro/static/media/lan1.0ec2c47d4858468ffa8a.jpg",
+    "static/media/lan3.jpg": "/web.intro/static/media/lan3.3c77a5e56f5d2000a0ce.jpg",
+    "static/media/mern2.jpg": "/web.intro/static/media/mern2.8cdd9b8dfc23e404ae75.jpg",
+    "static/media/ad.jpg": "/web.intro/static/media/ad.a4eb5a7aaa811ddfaa8e.jpg",
+    "static/media/frame.jpg": "/web.intro/static/media/frame.4327b0f7a26d55c49b70.jpg",
+    "static/media/dataBase.jpg": "/web.intro/static/media/dataBase.a6f062b9f8e6a05508db.jpg",
+    "static/media/fitness.jpg": "/web.intro/static/media/fitness.23dcbdec227f4bff7647.jpg",
+    "static/media/uni.jpg": "/web.intro/static/media/uni.6980dbab198eefafbeb0.jpg",
+    "static/media/react-native.jpg": "/web.intro/static/media/react-native.982c546854c387d6c686.jpg",
+    "static/media/skill.jpg": "/web.intro/static/media/skill.0be633539c503a2b32b3.jpg",
+    "index.html": "/web.intro/index.html",
+    "main.a165cb14.css.map": "/web.intro/static/css/main.a165cb14.css.map",
+    "main.28339174.js.map": "/web.intro/static/js/main.28339174.js.map"
   },
   "entrypoints": [
     "static/css/main.a165cb14.css",
-    "static/js/main.00b8c0a6.js"
+    "static/js/main.28339174.js"
   ]
 }
