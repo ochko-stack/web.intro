@@ -112,7 +112,7 @@ function Skills() {
               src={image8}
               text={
                 <>
-                  <h2>OneFit fitness application</h2>
+                  <h2>MonFit fitness application</h2>
                   <br />
                   <p>
                     {' '}
